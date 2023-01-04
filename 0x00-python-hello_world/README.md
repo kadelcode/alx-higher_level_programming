@@ -11,3 +11,6 @@
 * __9-easter_egg.py__: *A Python script that print __"The Zen of Python", by TimPeters__, followed by a new line
 * __10-check_cycle.c__: *A functiion in C that checks if a singly linked list has a cycle in it.*
 * __lists.h__: *Header file for __10-check_cycle.c__*
+* __100-write.py__: *A Python script that prints exactly __and that piece of art is useful - Dora Korpar, 2015-10-19__,followed by a new line*
+* __101-compile__: *A script that compiles a Python script file. The Python file name will be stored in the environment variable __$PYFILE__*
+* __102-magic_calculation.py__: *A function that does exactly the same as the following Python bytecode
