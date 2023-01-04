@@ -10,3 +10,4 @@
 * __8-concat_edges.py__: *A program that prints __object-oriented programming with Python__*
 * __9-easter_egg.py__: *A Python script that print __"The Zen of Python", by TimPeters__, followed by a new line
 * __10-check_cycle.c__: *A functiion in C that checks if a singly linked list has a cycle in it.*
+* __lists.h__: *Header file for __10-check_cycle.c__*
