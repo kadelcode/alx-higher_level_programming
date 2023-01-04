@@ -6,3 +6,4 @@
 * __4-print_float.py__: *A program that prints the float stored in the variable "number" with a precision of 2 digits*
 * __5-print_string.py__: *A program that prints 3 times a string stored in the variable "str", followed by its first 9 characters.*
 * __6-concat.py__: *A program that prints __Welcome to Holberton School!__*
+* __7-edges.py__: *Complete program for this [source code](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py)
