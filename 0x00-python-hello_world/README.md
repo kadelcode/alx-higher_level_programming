@@ -5,3 +5,4 @@
 * __3-print_number.py__: *A program that prints an integer(98) stored in the variable number followed by "Battery street"*
 * __4-print_float.py__: *A program that prints the float stored in the variable "number" with a precision of 2 digits*
 * __5-print_string.py__: *A program that prints 3 times a string stored in the variable "str", followed by its first 9 characters.*
+* __6-concat.py__: *A program that prints __Welcome to Holberton School!__*
