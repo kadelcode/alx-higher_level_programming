@@ -8,3 +8,4 @@
 * __6-concat.py__: *A program that prints __Welcome to Holberton School!__*
 * __7-edges.py__: *Complete program for this [source code](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py)*
 * __8-concat_edges.py__: *A program that prints __object-oriented programming with Python__*
+* __9-easter_egg.py__: *A Python script that print __"The Zen of Python", by TimPeters__, followed by a new line
