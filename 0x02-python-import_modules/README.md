@@ -32,4 +32,12 @@
       - print **Unknown operator. Available operators: +, -, * and /** followed with a new line
       - exit with the value _1_
     - The variables _a_ and _b_ are casted into integers by using _int()_ 
-    - The result is printed as **a operator b = result**, followed by a new line
+    - The result is printed as **[a operator b = result]**, followed by a new line
+- *101-easy_print.py*: 
+  - A program that prints **#pythoniscool**, followed by a new line, in the standard output
+  - program should be maximum 2 lines long
+  - the functions **print** or **eval** or **open** or **import sys** in your file **101-easy_print.py**
+-`*102-magic_calculation.py*:
+  - A Python function **def magic_calculation(a, b):** that does exactly the same as the following Python bytecode:
+- *103-fast_alphabet.py*:
+  - A program that prints the alphabet in uppercase, followed by a new line
