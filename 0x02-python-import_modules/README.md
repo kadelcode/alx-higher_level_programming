@@ -1,1 +1,13 @@
-# Python import & modules
+## Python import & modules
+- *0-add.py*:
+  - A program that imports the function _def add(a, b):_ from the file *add_0.py* and prints the result of the additon *1 + 2 = 3*
+- *1-calculation.py*:
+  - A program that imports function from the file _calculator_1.py_, does some Maths, and prints the result
+- *2-args.py*
+  - A program that prints the number of and the list of its arguments
+  - Its output is:
+    - the number of argument(s) followed by _argument_ (if number is one) or _arguments_ (otherwise), followed by
+    - *:* (or *.* if no arguments were passed) followed by
+    - a new line, followed by (if at least one argument),
+    - one line per argument:
+      - the position of the argument (starting at _1_) followed by _:_, followed by the argument value and a new line
