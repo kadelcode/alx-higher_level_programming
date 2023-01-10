@@ -10,3 +10,13 @@
 - *3-print_alphabt.py*:
   - A program that prints the ASCII alphabet, in lowercase, not followed by a new line
   - Prints all the letters except _q_ and _e_
+- *4-print_hexa.py*:
+  - A program that prints all numbers from 0 to 98 in decimal and in hexadecimal
+- *5-print_comb2.py*:
+  - A program that prints numbers form _0_ to _99_
+- *6-print_comb3.py*:
+  - A program that prints all possible different combinations of two digits
+  - Numbers are separated by *,*, followed by a space
+  - The two digits are different
+  - 01 and 10 are considered the same combination of the two digits
+  - Prints only the smallest combination of the two digits
