@@ -37,3 +37,11 @@
 
 - **12-switch.py:**
   - A completed [source code](https://github.com/holbertonschool/0x03.py/blob/master/12-switch_py) in order to switch value of _a_ and _b_
+
+- **13-is_palindrome.c:**
+  - A function in C that checks if a singly linked list is a palindrome
+  - _lists.h:_
+    - An header file for file **13-is_palindrome.c**
+
+- **100-print_python_list_info.c:**
+  - A C function that prints some basic info about Python lists
