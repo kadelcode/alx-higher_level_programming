@@ -16,3 +16,18 @@
 
 - **5-no_c.py:**
   - A function that removes all characters _c_ and _C_ from a string 
+
+- **6-print_matrix_integer.py:**
+  - A program that prints a matrix of integers
+
+- **7-add_tuple.py:**
+  - A function that adds 2 tuples
+
+- **8-multiple_returns.py:**
+  - A program that returns a tuple with the length of a string and its first character
+
+- **9-max_integer.py:**
+  - A function that finds the biggest integer of a list
+
+- **10-divisible_by_2.py:**
+  - A function that finds all multiples of 2 in a list
