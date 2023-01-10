@@ -36,7 +36,7 @@
   - A function that deletes the item at a specific position in a list
 
 - **12-switch.py:**
-  - A completed [source code](https://github.com/holbertonschool/0x03.py/blob/master/12-switch_py) in order to switch value of _a_ and _b_
+  - A completed program for this [source code](https://github.com/holbertonschool/0x03.py/blob/master/12-switch_py) in order to switch value of _a_ and _b_
 
 - **13-is_palindrome.c:**
   - A function in C that checks if a singly linked list is a palindrome
