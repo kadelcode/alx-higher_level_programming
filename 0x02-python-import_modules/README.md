@@ -28,3 +28,8 @@
       - _-_ for subtraction
       - _*_ for multiplication
       - _/_ for division
+    - If the operator is not one of the above:
+      - print **Unknown operator. Available operators: +, -, * and /** followed with a new line
+      - exit with the value _1_
+    - The variables _a_ and _b_ are casted into integers by using _int()_ 
+    - The result is printed as **a operator b = result**, followed by a new line
