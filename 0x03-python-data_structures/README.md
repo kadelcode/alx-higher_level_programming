@@ -31,3 +31,9 @@
 
 - **10-divisible_by_2.py:**
   - A function that finds all multiples of 2 in a list
+
+- **11-delete_at.py:**
+  - A function that deletes the item at a specific position in a list
+
+- **12-switch.py:**
+  - A completed [source code](https://github.com/holbertonschool/0x03.py/blob/master/12-switch_py) in order to switch value of _a_ and _b_
