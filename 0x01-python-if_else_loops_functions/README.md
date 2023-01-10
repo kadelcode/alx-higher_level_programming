@@ -33,4 +33,12 @@
 - *12-fizzbuzz.py*:
   - A function that prints the numbers from 1 to 100 separed by a space
     - For multiples of three it prints _Fizz_ instead of the number and for multiples of five it prints _Buzz_
-    - For numbers which are multiples of both three and five, _FizzBuzz_ is printed      
+    - For numbers which are multiples of both three and five, _FizzBuzz_ is printed
+- *13-insert_number.c*
+  - A function that in C that inserts a number into a sorted singly linked list
+  - *lists.h*
+    - Header file for program *13-insert_number.c*
+- *100-print_tebahpla.py*
+  - A program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (_z_ in lowercase and _Y_ in uppercase),not followed by a new line.
+- *101-remove_char_at.py*
+  - A function that creates a copy of the string, removing the character at the position *n* (not the Python way, the "C array index")  
