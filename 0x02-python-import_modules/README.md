@@ -21,7 +21,7 @@
   - A program that imports all functions from the file **calculator_1.py** and handles basic operations
   - Usage: **./100-my_calculator.py a operator b**
     - If the number of arguments is not 3, the program has to:
-      - print **Usage: ./100-my_calculator.py _ <a> <operator> <b> followed with a new line
+      - print **Usage: ./100-my_calculator.py** a <operator> b followed with a new line
       - exit with the value _1_
     - _operator_ can be:
       - _+_ for addition
