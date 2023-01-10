@@ -5,5 +5,8 @@
   - A program for the [source code](https://github.com/holbertonschool/0x01.py/blob/master/1-last_digit_py) in order to print the last digit of the number stored in the variable _number_
   - This program will assign a random signed number to the variable _number_ each time it is executed
   - The variable _number_ will store a different value every time you will run this program
-- *2-print_alphabet.py*
+- *2-print_alphabet.py*:
   - A program that prints the ASCII alphabet, in lowercase, not followed by a new line
+- *3-print_alphabt.py*:
+  - A program that prints the ASCII alphabet, in lowercase, not followed by a new line
+  - Prints all the letters except _q_ and _e_
