@@ -20,3 +20,17 @@
   - The two digits are different
   - 01 and 10 are considered the same combination of the two digits
   - Prints only the smallest combination of the two digits
+- *7-islower.py*:
+  - A function that checks for lowercase character
+- *8-uppercase.py*:
+  - A function that prints a string in uppercase followed by a new line
+- *9-print_last_digit.py*:
+  - A function that prints the last digit of a number
+- *10-add.py*:
+  - A function that adds two integers and returns the result
+- *11-pow.py*:
+  - A function that computes _a_ to the power of _b_ and return the value
+- *12-fizzbuzz.py*:
+  - A function that prints the numbers from 1 to 100 separed by a space
+    - For multiples of three it prints _Fizz_ instead of the number and for multiples of five it prints _Buzz_
+    - For numbers which are multiples of both three and five, _FizzBuzz_ is printed      
