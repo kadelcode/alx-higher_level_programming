@@ -1,8 +1,10 @@
 ## Python import & modules
 - *0-add.py*:
   - A program that imports the function _def add(a, b):_ from the file *add_0.py* and prints the result of the additon *1 + 2 = 3*
+  
 - *1-calculation.py*:
   - A program that imports function from the file _calculator_1.py_, does some Maths, and prints the result
+  
 - *2-args.py*:
   - A program that prints the number of and the list of its arguments
   - Its output is:
@@ -11,6 +13,7 @@
     - a new line, followed by (if at least one argument),
     - one line per argument:
       - the position of the argument (starting at _1_) followed by _:_, followed by the argument value and a new line
+      
 - *3-infinite_add.py*:
   - A program that prints the result of the addition of all arguments
 - *4-hidden_discovery.py*:
