@@ -25,3 +25,12 @@
 
 - **8-simple_delete.py**:
   - A function that deletes a key in a dictionary
+  
+- **9-multiply_by_2.py**:
+  - A function that returns a new dictionary with all values multiplied by 2
+  
+- **10-best_score.py**:
+  - A function that returns a key with the biggest integer value
+  
+- **11-multiply_list_map.py**:
+  - A function that returns a list with all values multiplied by a number without using any loops
