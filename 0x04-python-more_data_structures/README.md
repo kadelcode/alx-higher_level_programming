@@ -34,3 +34,15 @@
   
 - **11-multiply_list_map.py**:
   - A function that returns a list with all values multiplied by a number without using any loops
+
+- **12-roman_to_int.py**:
+  - A function *def roman_to_int(roman_string):* that converts a [Roman numeral](https://en.wikipedia.org/wiki/Roman_numerals) to an integer
+
+- **100-weight_average.py**:
+  - A function that returns the weighted average of all integers tuple **(<score>, <weight>)**
+  
+- **101-square_matrix_map.py**:
+  - A function that computes the square value of all integers of a matrix using **map**
+  
+- **102-complex_delete.py**:
+  - A function that deletes keys with a specific value in a dictionary
