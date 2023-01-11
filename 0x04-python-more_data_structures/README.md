@@ -7,3 +7,9 @@
 
 - **2-uniq_add.py**:
   - A function that adds all unique integers in a list(only once for each integer) 
+
+- **3-common_elements.py**:
+  - A function that returns a set of common elements in two sets
+
+- **4-only_diff_elements.py**:
+  - A function that returns a set of all elements present in only one set
