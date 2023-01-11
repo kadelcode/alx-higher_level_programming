@@ -22,3 +22,6 @@
 
 - **7-update_dictionary.py**:
   - A function that replaces or adds key/value in a dictionary
+
+- **8-simple_delete.py**:
+  - A function that deletes a key in a dictionary
