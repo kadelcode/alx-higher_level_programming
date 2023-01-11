@@ -46,3 +46,13 @@
   
 - **102-complex_delete.py**:
   - A function that deletes keys with a specific value in a dictionary
+  
+- **103-python.c**:
+  - Create two C functions that print some basic info about Python lists and Python bytes objects (**Done**)
+  - Python lists:
+    - Prototype: _void print_python_list(PyObject *p);
+    - Format: see example
+  - Python bytes:
+    - Prototype: _void print_python_bytes(Py)bject *p);
+    - Line "fist X bytes": print a maximum of 10 bytes
+    - If **p** is not a valid **PyBytesObject**, print an error message
