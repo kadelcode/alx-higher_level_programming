@@ -7,3 +7,5 @@ ALX higher level programming (Python) course
 - [0x02-python-import_modules](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x02-python-import_modules): programs that utilizes import and modules
 
 - [0x03-python-data_structures](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x03-python-data_structures): programs that test your understanding on ```Lists``` and ```Tuples```
+
+- [0x04-python-more_data_structures](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x04-python-more_data_structures): folder contains programs on the usage of ```Set``` and ```Dictionary```
