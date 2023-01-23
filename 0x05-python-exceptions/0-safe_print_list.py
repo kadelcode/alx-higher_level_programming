@@ -5,8 +5,9 @@ def safe_print_list(my_list=[], x=0):
             print(my_list[i], end='')
         print()
 
-    except Exception:
+    except IndexError:
         print()
         print("Length of list exceeded!")
+        raise
 
     return (x)
