@@ -16,3 +16,9 @@
 
 - **5-raise_exception.py**
   - A function that raises a type exception 
+
+- **6-raise_exception_msg.py**
+  - A function that raises a name exception with a message
+
+- **100-safe_print_integer_err.py**
+ - A function that prints an integer 
