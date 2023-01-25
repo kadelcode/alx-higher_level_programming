@@ -21,4 +21,4 @@
   - A function that raises a name exception with a message
 
 - **100-safe_print_integer_err.py**
- - A function that prints an integer 
+  - A function that prints an integer 
