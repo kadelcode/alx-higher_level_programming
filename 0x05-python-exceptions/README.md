@@ -10,3 +10,9 @@
   
 - **3-safe_print_division.py**
   - A function that divides 2 integers and prints the result
+
+- **4-list_division.py**
+  - A function that divides element by element 2 lists
+
+- **5-raise_exception.py**
+  - A function that raises a type exception 
