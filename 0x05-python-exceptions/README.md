@@ -22,3 +22,6 @@
 
 - **100-safe_print_integer_err.py**
   - A function that prints an integer 
+
+- **101-safe_function.py**
+  - A function that executes a function safely 
