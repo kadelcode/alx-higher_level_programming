@@ -24,4 +24,10 @@
   - A function that prints an integer 
 
 - **101-safe_function.py**
-  - A function that executes a function safely 
+  - A function that executes a function safely
+
+- **102-magic_calculation.py**
+  - A Python function ```def magic_calculation(a, b):``` that does exactly the same as the following Python bytecode:
+
+- **103-python.c**
+  - Three(3) C functions that print some basic info about Python lists, Python bytes and Python float objects. 
