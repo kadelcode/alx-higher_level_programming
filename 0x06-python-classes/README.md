@@ -16,3 +16,7 @@
 
 - **5-square.py**
   - A class ```Square``` that defines a square by: (based on ```4-square.py```)
+
+- **6-square.py**
+  - A class ```Square``` that defines a square by: (based on ```5-square.py```)
+
