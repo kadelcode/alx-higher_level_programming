@@ -4,15 +4,11 @@
 A function that adds 2 integers.
 function prototype: def add_integer(a, b=98)
 function parameters: must be integers or floats, else a TypeError is raised
-float parameters are casted to integers
-
 """
 
 def add_integer(a, b=98):
-    """
-    A function that adds two(2) integers.
-    Integers are of type int or float
-
+    """A function that adds two(2) integers.
+    Integers are of type int or float`
     """
     if not isinstance(a, int) or not isinstance(a, float):
         raise TypeError('a must be an integer')
