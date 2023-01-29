@@ -6,6 +6,7 @@ function prototype: def add_integer(a, b=98)
 function parameters: must be integers or floats, else a TypeError is raised
 """
 
+
 def add_integer(a, b=98):
     """A function that adds two(2) integers.
     Integers are of type int or float`
