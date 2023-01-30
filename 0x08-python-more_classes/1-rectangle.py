@@ -4,6 +4,8 @@ A class Rectangle that defines a rectangle by
 Private instance attributes: width & height
 Both width & height are integers
 """
+
+
 class Rectangle:
     """
     Defines a rectangle
