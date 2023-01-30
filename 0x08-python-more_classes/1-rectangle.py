@@ -28,3 +28,17 @@ class Rectangle:
         if value < 0:
             raise Value("width must be >= 0")
         self.__width = value
+
+    @property
+    def height(self):
+        """Getter gets the height"""
+        self.height = height
+
+    @height.setter
+    def height(self, value):
+        """Setter sets the height"""
+        if not isinstance(value, int):
+            raise TypeError("height must be an integer")
+        if value < 0:
+            raise ValueError("height must be >= 0")
+        self.__height = height
