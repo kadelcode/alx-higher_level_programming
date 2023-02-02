@@ -9,3 +9,13 @@ ALX higher level programming (Python) course
 - [0x03-python-data_structures](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x03-python-data_structures): programs that test your understanding on ```Lists``` and ```Tuples```
 
 - [0x04-python-more_data_structures](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x04-python-more_data_structures): folder contains programs on the usage of ```Set``` and ```Dictionary```
+
+- [0x05-python-exceptions](): 
+
+- [0x06-python-classes]():
+
+- [0x07-python-test_driven_development]():
+
+- [0x08-python_more_classes]():
+
+- [0x09-python_everything_is_object]():
