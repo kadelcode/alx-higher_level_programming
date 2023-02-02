@@ -18,4 +18,4 @@ ALX higher level programming (Python) course
 
 - [0x08-python_more_classes]():
 
-- [0x09-python_everything_is_object]():
+- [0x09-python-everything_is_object](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x09-python-everything_is_object): Everything in Python is an object.
