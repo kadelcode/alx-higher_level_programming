@@ -10,9 +10,9 @@ ALX higher level programming (Python) course
 
 - [0x04-python-more_data_structures](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x04-python-more_data_structures): folder contains programs on the usage of ```Set``` and ```Dictionary```
 
-- [0x05-python-exceptions](): Python exceptions handling
+- [0x05-python-exceptions](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x05-python-exceptions): Python exceptions handling
 
-- [0x06-python-classes]():
+- [0x06-python-classes](): Programs demonstrating the creation of classes, ```init``` method, the use of setters and getters
 
 - [0x07-python-test_driven_development]():
 
