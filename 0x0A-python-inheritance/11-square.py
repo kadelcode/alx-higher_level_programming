@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 
-"""A class ```Square``` that inherits from Rectangle class"""
+"""A class `Square` that inherits from Rectangle class"""
 
 Rectangle = __import__('9-rectangle.py').Rectangle
 
 
 class Square(Rectangle):
-    """Child class for ```Rectangle```"""
+    """Child class for `Rectangle`"""
     def __init__(self, size):
         """Initializes the params"""
         self.integer_validator("size", size)
