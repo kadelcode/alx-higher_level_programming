@@ -27,6 +27,10 @@ if __name__ == '__main__':
                     stats[status_code] += 1
             except BaseException:
                 pass
+            try:
+                file_size += int(data[-1])
+            except BaseException:
+                pass
             if counter % 10 == 0:
                 print_stats(stats, file_size)
         print_stats(stats, file_size)
