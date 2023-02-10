@@ -10,4 +10,5 @@ class Base:
         """Initialize class attribute"""
         if id is not None:
             self.id = id
-        self.__nb_objects += 1
+        else:
+            self.__nb_objects += 1
