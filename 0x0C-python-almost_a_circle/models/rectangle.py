@@ -8,7 +8,7 @@ class Rectangle(Base):
     """A Rectangle class"""
     def __init__(self, width, height, x=0, y=0, id=None):
         """Initializes class variables"""
-        super.__init__(id)
+        super().__init__(id)
         self.__width = width
         self.height = height
         self.x = x
@@ -32,4 +32,4 @@ class Rectangle(Base):
     @height.setter
     def height(self, value):
         """sets the height"""
-        self.__height = height
+        self.__height = value
