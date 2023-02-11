@@ -51,4 +51,6 @@ class Rectangle(Base):
     @x.setter
     def x(self, value):
         """sets the value of x"""
+        if type(value) != int:
+            raise TypeError("x must be an integer")
         self.__x = value
