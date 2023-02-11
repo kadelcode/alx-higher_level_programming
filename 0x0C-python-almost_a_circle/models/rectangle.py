@@ -42,3 +42,8 @@ class Rectangle(Base):
         if value <= 0:
             raise ValueError("height must be > 0")
         self.__height = value
+
+    @property
+    def x(self):
+        """getter for x"""
+        return self.__x
