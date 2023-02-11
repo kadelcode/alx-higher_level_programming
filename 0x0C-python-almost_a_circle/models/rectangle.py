@@ -47,3 +47,8 @@ class Rectangle(Base):
     def x(self):
         """getter for x"""
         return self.__x
+
+    @x.setter
+    def x(self, value):
+        """sets the value of x"""
+        self.__x = value
