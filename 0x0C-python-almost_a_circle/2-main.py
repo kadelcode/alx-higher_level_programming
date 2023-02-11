@@ -19,7 +19,7 @@ if __name__ == "__main__":
         r = Rectangle(10, 2)
         r.x = {}
     except Exception as e:
-        print("[{}] {}".format(e.__class.__name__, e))
+        print("[{}] {}".format(e.__class__.__name__, e))
 
     try:
         Rectangle(10, 2, 3, -1)
