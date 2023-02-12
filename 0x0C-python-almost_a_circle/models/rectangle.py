@@ -77,12 +77,11 @@ class Rectangle(Base):
 
     def display(self):
         """displays `#` based on width & height"""
-        i = 0
-        for i in range(0, self.__height):
-            j = 0
-            for j in range(0, self.__width):
-                print("#",end='')
+        for i in range(self.__y):
             print()
+        for i in range(self.__height):
+            print(" " * self.__x, end="")
+            print("#" * self.__width)
 
     def __str__(self):
         """ returns the string representation of the rectangle """
