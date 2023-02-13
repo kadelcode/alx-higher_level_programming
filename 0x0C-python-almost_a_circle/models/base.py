@@ -59,3 +59,20 @@ class Base:
             with open(filename, "r") as f:
                 return [cls.create(**d) for d in cls.from_json_string(f.read())]
         return []
+
+    @classmethod
+    def save_to_file_csv(cls, list_objs):
+        """serializes in CSV"""
+        fname = cls.__name__ + ".csv"
+
+        if list_objs is None:
+            with open(fname, "w") as cfile:
+                cfile.write("[]")
+        else:
+            with open(fname, "w") as cfile:
+                writer = csv.writer(cfile)
+                for obj in list_objs:
+                    if cls.__name__ == "Rectangle":
+                        writer.writerow([obj.id, obj.width, obj.height, obj.x, obj.y])
+                    if cls.__name__ == "Square":
+                        writer.writerow([obj.id, obj.width, obj.x, obj.y])
