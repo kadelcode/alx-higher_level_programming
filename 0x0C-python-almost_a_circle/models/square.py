@@ -26,6 +26,10 @@ class Square(Rectangle):
         self.width = value
         self.height = value
 
+    def __str__(self):
+        """returns the string representation of the square"""
+        return "[Square] ({}) {}/{} - {}".format(self.id, self.x, self.y, self.size)
+
     def update(self, *args, **kwargs):
         """ assign an argument to each attribute """
         if args:
