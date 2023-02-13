@@ -96,3 +96,8 @@ class Base:
                 temp = cls.create(**instance)
                 instances.append(temp)
         return instances
+
+    @staticmethod
+    def draw(list_rectangles, list_squares):
+        """Draw the rectangles and squares"""
+        t = turtle.Turtle()
