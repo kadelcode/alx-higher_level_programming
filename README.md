@@ -22,4 +22,4 @@ ALX higher level programming (Python) course
 
 - [0x0A-python-inheritance](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x0A-python-inheritance): Programs on Base(Parent) & Child classes
 
-- [0x0B-python-input_output](): Programs on input and output functions
+- [0x0B-python-input_output](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x0B-python-input_output): Programs on input and output functions
