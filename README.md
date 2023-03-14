@@ -19,3 +19,7 @@ ALX higher level programming (Python) course
 - [0x08-python_more_classes](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x08-python-more_classes): More programs on Python classes
 
 - [0x09-python-everything_is_object](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x09-python-everything_is_object): Everything in Python is an object(sth a variable can refer to). Mutable & Immutable objects 
+
+- [0x0A-python-inheritance](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x0A-python-inheritance): Programs on Base(Parent) & Child classes
+
+- [0x0B-python-input_output](https://github.com/kadelcode/alx-higher_level_programming/tree/main/0x0B-python-input_output): Programs on input and output functions
